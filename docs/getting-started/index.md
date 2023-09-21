@@ -16,8 +16,8 @@ Astrysk is an app that unifies your self-hosted open-source applications. Whethe
 - Jellyfin
 
 ### And with more coming soon:
-- Sonarr
-- Radarr
+- Sonarr (Available in TestFlight)
+- Radarr (Available in TestFlight)
 
 ## License
 

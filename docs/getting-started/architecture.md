@@ -9,7 +9,7 @@ sidebar_position: 2
 This page is currently under development.
 :::
 
-Astrysk has been designed to allow for extensibility through applets. Applets are self-contained applications that can provide additonal functionality and customisation options. These applets developmed in part by the community fosters a rich eco-system of tools and features to enhance the user experience.
+Astrysk has been designed to allow for extensibility through applets. Applets are self-contained applications that can provide additonal functionality and customisation options. These applets, developed in part by the community fosters a rich eco-system of tools and features to enhance the user experience.
 
 An applet has a well defined interface that the main application can use to initialise the applet. The interface consists of 6 main screens:
 - Home [Required]
